@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Dart and Flutter
 - 💞️ I’m looking to collaborate on teamwork
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me über die Buschtrommel
+- 😄 Pronouns: I like Käsebrot
 - ⚡ Fun fact: ...
 
 <!---
