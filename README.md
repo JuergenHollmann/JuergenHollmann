@@ -6,6 +6,7 @@
 - 😄 Pronouns: I like Kaesebrot
 - ⚡ Fun fact: no risk - no fun
 - sodele das wars amole fiers erschde ...
+- ond von dohanna hab i des wiedr ens VScode zrick do ...
 
 <!---
 JuergenHollmann/JuergenHollmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
