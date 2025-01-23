@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @JuergenHollmann
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Dart and Flutter
+- 👀 My hobby is programming since over 20 years
+- 🌱 I had currently learnt Dart and Flutter in 9 months in a fulltime "9-to-5-intensive-study" at App Akademie
 - 💞️ I’m looking to collaborate on teamwork
-- 📫 How to reach me "über die Buschtrommel"
-- 😄 Pronouns: I like Kaesebrot
+- 📫 How to reach me: h.juergen.hollmann@gmail.com
+- 😄 Pronouns: "... doesn't work" - does not exist in my vocabulary
 - ⚡ Fun fact: no risk - no fun
-- sodele das wars amole fiers erschde ...
-- ond von dohanna hab i des wiedr ens VScode zrick do ...
+
 
 <!---
 JuergenHollmann/JuergenHollmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
