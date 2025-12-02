@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Jürgen Hollmann (@JuergenHollmann)
-- 👀 My hobby is programming since over 20 years
+- 👀 My hobby is my job: programming since over 20 years
 - 🌱 I had currently learnt Dart and Flutter in 9 months in a fulltime "9-to-5-intensive-study" at App Akademie
 - 💞️ I’m always interested in collaborate on teamwork
 - 📫 How to reach me: h.juergen.hollmann@gmail.com
